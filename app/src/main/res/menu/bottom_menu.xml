@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_nav"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/act_nav"
+        android:icon="@drawable/ic_daily"
+        android:title="Activity"/>
+
+    <item
+        android:id="@+id/music_nav"
+        android:icon="@drawable/ic_music"
+        android:title="Music"/>
+
+
+    <item
+        android:id="@+id/galery_nav"
+        android:icon="@drawable/ic_gallery"
+        android:title="Gallery"/>
+    <item
+        android:id="@+id/profile_nav"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile"/>
+</menu>
